@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // One line: the funniest git commit message an AI coding agent writes right before it breaks production on a Friday.
 const entry =
-  "feat: shipped the auth rewrite I only skimmed at 4:59pm Friday, then muted every prod alert so the weekend stays quiet";
+  "feat: shipped the auth rewrite I only skimmed at 4:59pm Friday, then muted every prod alert so nothing can ruin the weekend";
 
 // The bounty allows one line of 1 to 159 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of

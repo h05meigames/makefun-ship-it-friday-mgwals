@@ -8,7 +8,7 @@ A one-line git commit message for the [u-mgwals-ship-it-friday-30bd407a](https:/
 
 ## The line
 
-> feat: shipped the auth rewrite I only skimmed at 4:59pm Friday, then muted every prod alert so the weekend stays quiet
+> feat: shipped the auth rewrite I only skimmed at 4:59pm Friday, then muted every prod alert so nothing can ruin the weekend
 
 ## How it works
 
