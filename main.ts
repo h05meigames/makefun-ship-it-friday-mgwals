@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // git commit message an AI coding agent writes right before it breaks
 // production on a Friday.
 const entry =
-  "feat: rewrote checkout at 4:58pm Friday without reading the old code, the tests were green on my machine so ship it";
+  "feat: shipped the auth rewrite I only skimmed at 4:59pm Friday, then muted every prod alert so nothing can ruin the weekend";
 
 // Gate: entry.txt must be UTF-8 text of 1 to 159 characters. Count Unicode
 // code points (so a multi-byte character counts once) and fail loudly
